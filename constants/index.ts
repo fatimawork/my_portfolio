@@ -27,8 +27,8 @@ export const SKILL_DATA = [
     height: 65,
   },
   {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
+    skill_name: "Angular",
+    image: "angular.png",
     width: 80,
     height: 80,
   },
@@ -44,48 +44,48 @@ export const SKILL_DATA = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "React Query",
-    image: "reactquery.png",
-    width: 80,
-    height: 80,
-  },
+  // {
+  //   skill_name: "React Query",
+  //   image: "reactquery.png",
+  //   width: 80,
+  //   height: 80,
+  // },
   {
     skill_name: "TypeScript",
     image: "ts.png",
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Next.js 14",
-    image: "next.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Framer Motion",
-    image: "framer.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Stripe",
-    image: "stripe.png",
-    width: 80,
-    height: 80,
-  },
+  // {
+  //   skill_name: "Next.js 14",
+  //   image: "next.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Framer Motion",
+  //   image: "framer.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Stripe",
+  //   image: "stripe.png",
+  //   width: 80,
+  //   height: 80,
+  // },
   {
     skill_name: "Node.js",
     image: "node.png",
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "MongoDB",
-    image: "mongodb.png",
-    width: 40,
-    height: 40,
-  },
+  // {
+  //   skill_name: "MongoDB",
+  //   image: "mongodb.png",
+  //   width: 40,
+  //   height: 40,
+  // },
 ] as const;
 
 export const SOCIALS = [
@@ -107,75 +107,75 @@ export const SOCIALS = [
 ] as const;
 
 export const FRONTEND_SKILL = [
-  {
-    skill_name: "HTML",
-    image: "html.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "CSS",
-    image: "css.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "JavaScript",
-    image: "js.png",
-    width: 65,
-    height: 65,
-  },
-  {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Material UI",
-    image: "mui.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "React",
-    image: "react.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Redux",
-    image: "redux.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "React Query",
-    image: "reactquery.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "TypeScript",
-    image: "ts.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Next.js 14",
-    image: "next.png",
-    width: 80,
-    height: 80,
-  },
+  // {
+  //   skill_name: "HTML",
+  //   image: "html.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "CSS",
+  //   image: "css.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "JavaScript",
+  //   image: "js.png",
+  //   width: 65,
+  //   height: 65,
+  // },
+  // {
+  //   skill_name: "Tailwind CSS",
+  //   image: "tailwind.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Material UI",
+  //   image: "mui.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "React",
+  //   image: "react.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Redux",
+  //   image: "redux.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "React Query",
+  //   image: "reactquery.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "TypeScript",
+  //   image: "ts.png",
+  //   width: 80,
+  //   height: 80,
+  // },
+  // {
+  //   skill_name: "Next.js 14",
+  //   image: "next.png",
+  //   width: 80,
+  //   height: 80,
+  // },
 ] as const;
 
 export const BACKEND_SKILL = [
-  {
-    skill_name: "Node.js",
-    image: "node.png",
-    width: 80,
-    height: 80,
-  },
+  // {
+  //   skill_name: "Node.js",
+  //   image: "node.png",
+  //   width: 80,
+  //   height: 80,
+  // },
   {
     skill_name: "Express.js",
     image: "express.png",
@@ -206,12 +206,12 @@ export const BACKEND_SKILL = [
     width: 70,
     height: 70,
   },
-  {
-    skill_name: "Prisma",
-    image: "prisma.png",
-    width: 70,
-    height: 70,
-  },
+  // {
+  //   skill_name: "Prisma",
+  //   image: "prisma.png",
+  //   width: 70,
+  //   height: 70,
+  // },
   {
     skill_name: "Graphql",
     image: "graphql.png",
@@ -221,18 +221,18 @@ export const BACKEND_SKILL = [
 ] as const;
 
 export const FULLSTACK_SKILL = [
-  {
-    skill_name: "React Native",
-    image: "reactnative.png",
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: "Tauri",
-    image: "tauri.png",
-    width: 70,
-    height: 70,
-  },
+  // {
+  //   skill_name: "React Native",
+  //   image: "reactnative.png",
+  //   width: 70,
+  //   height: 70,
+  // },
+  // {
+  //   skill_name: "Tauri",
+  //   image: "tauri.png",
+  //   width: 70,
+  //   height: 70,
+  // },
   {
     skill_name: "Docker",
     image: "docker.png",
@@ -249,34 +249,34 @@ export const FULLSTACK_SKILL = [
 ] as const;
 
 export const OTHER_SKILL = [
-  {
-    skill_name: "Go",
-    image: "go.png",
-    width: 60,
-    height: 60,
-  },
+  // {
+  //   skill_name: "Go",
+  //   image: "go.png",
+  //   width: 60,
+  //   height: 60,
+  // },
 ] as const;
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "Car Rent web application",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
-    image: "/projects/project-1.png",
+      'Revolutionize your travel experience with our web-based platform, offering seamless access to a vast network of car rental providers. Discover, book, and manage your rentals effortlessly, ensuring a smooth and efficient journey every time.',
+    image: "/projects/carrent.png",
     link: "https://example.com",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "Job IT web application",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
+      'Empower your career search with our innovative web application, designed to streamline the job hunting process. Explore countless job openings, access estimated salary ranges, and effortlessly find opportunities tailored to your location, ensuring a productive and successful job search experience.',
+    image: "/projects/jobit.png",
     link: "https://example.com",
   },
   {
-    title: "Space Themed Website",
+    title: "Trip Guide web application",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
+      'Embark on your next adventure with our all-in-one travel booking platform, where you can seamlessly book flights, hotels, and rental cars. Discover curated recommendations for top destinations, ensuring a personalized and unforgettable travel experience from start to finish.',
+    image: "/projects/tripguide.png",
     link: "https://example.com",
   },
 ] as const;
