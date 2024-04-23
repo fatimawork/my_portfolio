@@ -288,17 +288,17 @@ export const FOOTER_DATA = [
       {
         name: "YouTube",
         icon: FaYoutube,
-        link: "https://youtube.com",
+        link: "https://www.youtube.com/@elmourtakifatima2792",
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/fatimawork",
       },
       {
         name: "Discord",
         icon: RxDiscordLogo,
-        link: "https://discord.com",
+        link: "fatemasoftdev",
       },
     ],
   },
@@ -313,12 +313,12 @@ export const FOOTER_DATA = [
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://twitter.com/FatemaPo",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        link: "https://ma.linkedin.com/in/fatima-el-mourtaki-134621176",
       },
     ],
   },
@@ -338,7 +338,7 @@ export const FOOTER_DATA = [
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:contact@example.com",
+        link: "fatimaelmourtaki@gmail.com",
       },
     ],
   },
