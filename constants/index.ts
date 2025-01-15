@@ -107,75 +107,75 @@ export const SOCIALS = [
 ] as const;
 
 export const FRONTEND_SKILL = [
-  // {
-  //   skill_name: "HTML",
-  //   image: "html.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "CSS",
-  //   image: "css.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "JavaScript",
-  //   image: "js.png",
-  //   width: 65,
-  //   height: 65,
-  // },
-  // {
-  //   skill_name: "Tailwind CSS",
-  //   image: "tailwind.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "Material UI",
-  //   image: "mui.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "React",
-  //   image: "react.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "Redux",
-  //   image: "redux.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "React Query",
-  //   image: "reactquery.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "TypeScript",
-  //   image: "ts.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   skill_name: "Next.js 14",
-  //   image: "next.png",
-  //   width: 80,
-  //   height: 80,
-  // },
+  {
+    skill_name: "HTML",
+    image: "html.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "CSS",
+    image: "css.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "JavaScript",
+    image: "js.png",
+    width: 65,
+    height: 65,
+  },
+  {
+    skill_name: "Tailwind CSS",
+    image: "tailwind.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Material UI",
+    image: "mui.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "React",
+    image: "react.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Redux",
+    image: "redux.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "React Query",
+    image: "reactquery.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "TypeScript",
+    image: "ts.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Next.js 14",
+    image: "next.png",
+    width: 80,
+    height: 80,
+  },
 ] as const;
 
 export const BACKEND_SKILL = [
-  // {
-  //   skill_name: "Node.js",
-  //   image: "node.png",
-  //   width: 80,
-  //   height: 80,
-  // },
+  {
+    skill_name: "Node.js",
+    image: "node.png",
+    width: 80,
+    height: 80,
+  },
   {
     skill_name: "Express.js",
     image: "express.png",
@@ -249,12 +249,12 @@ export const FULLSTACK_SKILL = [
 ] as const;
 
 export const OTHER_SKILL = [
-  // {
-  //   skill_name: "Go",
-  //   image: "go.png",
-  //   width: 60,
-  //   height: 60,
-  // },
+  {
+    skill_name: "Go",
+    image: "go.png",
+    width: 60,
+    height: 60,
+  },
 ] as const;
 
 export const PROJECTS = [
@@ -274,9 +274,9 @@ export const PROJECTS = [
   },
   {
     title: "Trip Guide web application",
-    description:
+    description: 
       'Embark on your next adventure with our all-in-one travel booking platform, where you can seamlessly book flights, hotels, and rental cars. Discover curated recommendations for top destinations, ensuring a personalized and unforgettable travel experience from start to finish.',
-    image: "/projects/tripguide.png",
+    image: "/projects/trip.png",
     link: "https://example.com",
   },
 ] as const;
@@ -308,7 +308,7 @@ export const FOOTER_DATA = [
       {
         name: "Instagram",
         icon: RxInstagramLogo,
-        link: "https://instagram.com",
+        link: "https://www.instagram.com/fatima_el_mourtaki/",
       },
       {
         name: "Twitter",
@@ -328,7 +328,7 @@ export const FOOTER_DATA = [
       {
         name: "Become Sponsor",
         icon: null,
-        link: "https://youtube.com",
+        link: "https://www.youtube.com/@elmourtakifatima2792",
       },
       {
         name: "Learning about me",
