@@ -1,4 +1,12 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+module.exports = {
+    experimental: {
+      outputFileTracingExcludes: {
+        '*': [
+          '**/node_modules/**',
+          '**/.git/**',
+          '**/.next/**',
+        ],
+      },
+    },
+  };
+  
