@@ -17,8 +17,8 @@ export const Navbar = () => {
             width={70}
             height={70}
             draggable={false}
-            className="cursor-pointer hover:animate-slowspin"
-          />
+            className="cursor-pointer rounded-full transition-transform duration-500 ease-in-out hover:scale-110 hover:rotate-12"
+            />
           <div className="font-bold ml-[10px] hidden md:block text-gray-300">
             Fatima El Mourtaki
           </div>

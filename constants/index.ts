@@ -259,17 +259,17 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Car Rent web application",
+    title: "Equipement Rent web application",
     description:
-      'Revolutionize your travel experience with our web-based platform, offering seamless access to a vast network of car rental providers. Discover, book, and manage your rentals effortlessly, ensuring a smooth and efficient journey every time.',
-    image: "/projects/carrent.png",
+      'Sport chez-vous is a web application for renting sports hall equipment. This application should allow a customer to rent sports equipment through an online reservation system, subject to availability.',
+    image: "/projects/projetSportchezvous.png",
     link: "https://example.com",
   },
   {
-    title: "Job IT web application",
+    title: "Salony web application",
     description:
-      'Empower your career search with our innovative web application, designed to streamline the job hunting process. Explore countless job openings, access estimated salary ranges, and effortlessly find opportunities tailored to your location, ensuring a productive and successful job search experience.',
-    image: "/projects/jobit.png",
+      'Salony is dedicated to bringing beauty and wellness services right to your fingertips. It connect clients with highly skilled professionals to ensure you have the best experience. Whether it\'s a haircut, a massage, or a facial, Salony makes it easy for you to book an appointment that fits your schedule.',
+    image: "/projects/projetSalony.png",
     link: "https://example.com",
   },
   {
@@ -338,7 +338,7 @@ export const FOOTER_DATA = [
       {
         name: "Contact Me",
         icon: null,
-        link: "fatimaelmourtaki@gmail.com",
+        link: "#contact-me",
       },
     ],
   },
